@@ -1,3 +1,3 @@
 # like a linktree thing
 
-https://imstraightasaline.github.io/
+https://imstraightasaline.github.io/links
